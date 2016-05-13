@@ -2,7 +2,7 @@
   padding: 0;
 }
 .navbar-collapse li {
-  background-color: rgba(83%, 83%,893%, .2);
+  background-color: rgba(83%, 83%, 83%, .2);
 }
 .carousel-inner>.item>a>img, .carousel-inner>.item>img {
   height: 70vh;
@@ -40,13 +40,13 @@
 }
 #story #year {
   font-family: 'Playfair Display', serif;
-  font-size:;
   color: #ddd;
   text-shadow: none;
   z-index: -1;
   position: absolute;
   font-size: 200px;
   font-weight: 700;
+  padding-left: 80px;
 }
 #review {
   background-image: url('../img/food_review.jpg');
